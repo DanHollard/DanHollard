@@ -4,7 +4,7 @@
 
 <p align='center'>#</p>
 <br>
-<p align='center'>#</p>
+<p align='center'>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Hollard</p>
 
 <h1 align="center">💼 Projects</h1>
 <p align="center">
@@ -17,9 +17,9 @@
  
 |   Project  | Repo | Live | Key Technologies | Status |
 |------------|------|------|------------------|-|
-|  # | # | # | # | # |
-|  # | # | #| # |#|
-| # | #   |#| # | # |
+|  Python Compiler/Interpreter | # | # | # | 50% |
+|  Data Science Webpage and scraper | # | #| # | 40% |
+| Chess Board | #   |#| # | 35% |
 | # | #     |# | # | # |
 
 </div>
